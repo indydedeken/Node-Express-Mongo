@@ -40,7 +40,7 @@ Dans le dossier /nodetest1/data/ :
 
 	$ mongod --dbpath ~/Sites/Node-Express-Mongo/nodetest1/data/
 
-*puisqu'une instance Mongodb est installé au chemin suivant : ~/Sites/Node-Express-Mongo/nodetest1/data/*
+*puisqu'une instance Mongodb est installée au chemin suivant : ~/Sites/Node-Express-Mongo/nodetest1/data/*
 
 
 Dans le dossier /nodetest1/ :
