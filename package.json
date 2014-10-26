@@ -1,0 +1,24 @@
+{
+  "name": "Node-Express-Mongo-Tuto",
+  "version": "1.0.0",
+  "description": "Tutoriel http://cwbuecheler.com/web/tutorials/2013/node-express-mongo/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "mongo"
+  ],
+  "author": "indy",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.10.0",
+    "express-generator": "^4.9.0"
+  }
+}
