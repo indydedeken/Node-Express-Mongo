@@ -7,3 +7,10 @@ nodetest1/node_modules/*
 
 nodetest1/data/*
 
+nodetest1/data/journal/j._0
+
+nodetest1/data/local.0
+
+nodetest1/data/local.ns
+
+nodetest1/data/mongod.lock
