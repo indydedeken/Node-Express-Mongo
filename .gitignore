@@ -14,3 +14,5 @@ nodetest1/data/local.0
 nodetest1/data/local.ns
 
 nodetest1/data/mongod.lock
+
+nodetest1/data/nodetest1.ns
